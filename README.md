@@ -130,7 +130,7 @@ Open the Jupyter Notebook and execute the cells
    ```bash
    jupyter notebook Clustering_and_Churn_predition_of_Telco_Customer_Churn_Data_with_Machine_Learning.ipynb
    ```
-5. Ensure the dataset `WA_Fn-UseC_-Telco-Customer-Churn.csv` is available in the project directory.
+5. Ensure the dataset `WA_Fn-UseC_-Telco-Customer-Churn.csv` is available in the `data` folder in the project directory.
 6. Run the cells sequentially to execute the analysis.
 
 ## Contributing
