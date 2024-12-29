@@ -1,4 +1,4 @@
-# Clustering-and-Churn-predition-of-Telco-Customer-Churn-Data-with-Machine-Learning
+# Clustering and Churn Prediction of Telco Customer Churn Data with Machine Learning
 This repository contains a comprehensive Jupyter Notebook that showcases the application of advanced clustering techniques and machine learning models to analyze and predict customer churn in the telecommunications industry. It offers practical insights and actionable results that can be directly applied to enhance customer retention strategies and operational efficiency.
 
 ## Table of Contents
